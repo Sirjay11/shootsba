@@ -1,5 +1,7 @@
 {
   "current": {
+    "type_header_font": "anonymous_pro_n7",
+    "type_body_font": "archivo_narrow_n7",
     "card_style": "card",
     "card_color_scheme": "background-1",
     "text_boxes_border_thickness": 0,
