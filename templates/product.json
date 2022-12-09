@@ -103,6 +103,15 @@
           "settings": {
             "custom_liquid": "<label for=\"message\"class=\"form__label\">Message:<\/label>\n\n<div class=\"field\">\n<textarea id=\"message\"placeholder=\"Measssage\"name=\"properties[Message]\"form=\"product-form-{{ section.id }}\"class=\"text-area field__input\"><\/textarea>\n<\/div>"
           }
+        },
+        "886c3851-6f45-45b8-ac2e-e663d2ba5a93": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Watch video",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -120,7 +129,8 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "7f0dcc43-57d1-4cd3-9b38-a2f93181fd40"
+        "7f0dcc43-57d1-4cd3-9b38-a2f93181fd40",
+        "886c3851-6f45-45b8-ac2e-e663d2ba5a93"
       ],
       "settings": {
         "enable_sticky_info": true,
