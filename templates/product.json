@@ -112,6 +112,15 @@
             "content": "",
             "page": ""
           }
+        },
+        "e3cf6a1e-973a-4f86-8a87-6360bdcfac03": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -130,7 +139,8 @@
         "collapsible-row-3",
         "share",
         "7f0dcc43-57d1-4cd3-9b38-a2f93181fd40",
-        "886c3851-6f45-45b8-ac2e-e663d2ba5a93"
+        "886c3851-6f45-45b8-ac2e-e663d2ba5a93",
+        "e3cf6a1e-973a-4f86-8a87-6360bdcfac03"
       ],
       "settings": {
         "enable_sticky_info": true,
