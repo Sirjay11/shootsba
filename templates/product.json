@@ -108,7 +108,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Watch video",
-            "icon": "check_mark",
+            "icon": "none",
             "content": "",
             "page": ""
           }
