@@ -46,6 +46,14 @@
  font-size: 1.5rem;
 }
 
+
+.responsive-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+	height: auto;
+}
+
+
 /* Change color for Banner Subtext */
 .banner__content .color-background-1 {
  color: rgb(var(--color-foreground));
