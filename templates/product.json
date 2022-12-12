@@ -51,6 +51,16 @@
             "show_dynamic_checkout": true
           }
         },
+        "886c3851-6f45-45b8-ac2e-e663d2ba5a93": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Watch video",
+            "icon": "youtube",
+            "content": "",
+            "liquid": "<iframe class=\"responsive-video\" width=\"763\" height=\"429\" src=\"https:\/\/www.youtube.com\/embed\/Read8eJM_UI\" title=\"The TOP 10 Lip Glosses EVER (according to YOU)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -62,6 +72,7 @@
             "heading": "Materials",
             "icon": "leather",
             "content": "<p><\/p>",
+            "liquid": "",
             "page": ""
           }
         },
@@ -71,6 +82,7 @@
             "heading": "Shipping & Returns",
             "icon": "truck",
             "content": "<p><\/p>",
+            "liquid": "",
             "page": ""
           }
         },
@@ -80,6 +92,7 @@
             "heading": "Dimensions",
             "icon": "ruler",
             "content": "<p><\/p>",
+            "liquid": "",
             "page": ""
           }
         },
@@ -89,6 +102,7 @@
             "heading": "Care Instructions",
             "icon": "heart",
             "content": "<p><\/p>",
+            "liquid": "",
             "page": ""
           }
         },
@@ -104,21 +118,13 @@
             "custom_liquid": "<label for=\"message\"class=\"form__label\">Message:<\/label>\n\n<div class=\"field\">\n<textarea id=\"message\"placeholder=\"Measssage\"name=\"properties[Message]\"form=\"product-form-{{ section.id }}\"class=\"text-area field__input\"><\/textarea>\n<\/div>"
           }
         },
-        "886c3851-6f45-45b8-ac2e-e663d2ba5a93": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Watch video",
-            "icon": "none",
-            "content": "",
-            "page": ""
-          }
-        },
         "e3cf6a1e-973a-4f86-8a87-6360bdcfac03": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
             "content": "",
+            "liquid": "",
             "page": ""
           }
         }
@@ -132,6 +138,7 @@
         "quantity_selector",
         "8aa05b40-66a3-4d4a-a14a-b3783955b6b3",
         "buy_buttons",
+        "886c3851-6f45-45b8-ac2e-e663d2ba5a93",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
@@ -139,7 +146,6 @@
         "collapsible-row-3",
         "share",
         "7f0dcc43-57d1-4cd3-9b38-a2f93181fd40",
-        "886c3851-6f45-45b8-ac2e-e663d2ba5a93",
         "e3cf6a1e-973a-4f86-8a87-6360bdcfac03"
       ],
       "settings": {
