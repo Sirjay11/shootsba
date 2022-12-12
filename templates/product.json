@@ -13,7 +13,7 @@
         "c8f878bc-dd0f-4716-85d2-3683ef5248e2": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h3>Related Product:<\/h3> \n<a href=\"{{product.metafields.custom.related_product.value.title}}\">\n\n<p style=\"color: black; font-weight: bold; text-align: center; text-decoration: none; \"> {{product.metafields.custom.related_product.value.title}} <\/p> \n\n<img src=\"{{product.metafields.custom.suggestions.value.featured_image | img_url: '200x'}}\"> \n\n<\/a>"
+            "custom_liquid": "<h3>Related Product:<\/h3> \n<a href=\"{{product.metafields.custom.related_product.value.title}}\">\n\n<p style=\"color: black; font-weight: bold; text-align: center; text-decoration: none; \"> {{product.metafields.custom.related_product.value.title}} <\/p> \n\n<img style=\"display: block;\n  margin-left: auto;\n  margin-right: auto;\n  width: 50%;\" src=\"{{product.metafields.custom.suggestions.value.featured_image | img_url: '300x'}}\"> \n\n<\/a>"
           }
         },
         "title": {
