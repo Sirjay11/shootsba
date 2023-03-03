@@ -13,7 +13,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "Welcome to our store come on in we are having a sale!",
               "color_scheme": "background-1",
