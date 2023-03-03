@@ -55,7 +55,7 @@
           "type": "heading",
           "settings": {
             "heading": "Weekly Best Sellers",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text": {
@@ -398,5 +398,4 @@
     "multicolumn",
     "165454510801fcb40e"
   ]
-
-
+}
